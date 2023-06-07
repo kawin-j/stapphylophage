@@ -1,1 +1,1 @@
-# stapphylophage
+# Bacteriophage of Staphylococcus aureus
