@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" modified="2023-07-23T01:11:18.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="u4eJJMi_KPWnyhjwmB5A" version="21.6.5" type="github">
+  <diagram name="Page-1" id="LMBhRBD722cPYpgbq7TS">
+    <mxGraphModel dx="867" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cJtdsX_xr3O15uzgO5av-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cJtdsX_xr3O15uzgO5av-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cJtdsX_xr3O15uzgO5av-5" value="Aims: Isolation of Phages" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cJtdsX_xr3O15uzgO5av-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;6 &amp;lt;= N&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;sub&gt;φ&lt;/sub&gt;, 3&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&amp;lt;= N&lt;sub&gt;Lyt-&lt;/sub&gt;&lt;/font&gt;&lt;sub&gt;φ&lt;/sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cJtdsX_xr3O15uzgO5av-5">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJtdsX_xr3O15uzgO5av-7" value="Isolated host&amp;nbsp; -&amp;gt; 3 &amp;lt;= N&lt;sub&gt;std-S. au&lt;/sub&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cJtdsX_xr3O15uzgO5av-5">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJtdsX_xr3O15uzgO5av-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cJtdsX_xr3O15uzgO5av-5">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJtdsX_xr3O15uzgO5av-8" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cJtdsX_xr3O15uzgO5av-5">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJtdsX_xr3O15uzgO5av-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJtdsX_xr3O15uzgO5av-2" target="cJtdsX_xr3O15uzgO5av-5">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="250" y="390" as="sourcePoint" />
+            <mxPoint x="370" y="410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
